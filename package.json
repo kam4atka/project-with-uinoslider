@@ -15,7 +15,9 @@
     "webpack-dev-server": "3.11.0"
   },
   "license": "MIT",
-  "dependencies": {},
+  "dependencies": {
+    "nouislider": "14.6.3"
+  },
   "scripts": {
     "eslint": "eslint js/**/*.js",
     "test": "npm run eslint",
