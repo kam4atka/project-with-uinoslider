@@ -1,3 +1,8 @@
+export const KeyCode = {
+  ESC: 27,
+  ENTER: 13
+};
+
 export const getRandomCount = (min, max) => {
   return Math.ceil(Math.random() * (max - min) + min);
 };
